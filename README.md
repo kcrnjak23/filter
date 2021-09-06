@@ -1,3 +1,3 @@
 filter app
 
-Filer App
+Filter App
